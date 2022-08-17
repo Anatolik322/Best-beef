@@ -1,0 +1,18 @@
+body{
+    background-color:#191919;
+   
+}
+
+.content{
+    margin-top: 15px;
+    border-radius: 55px;
+    position: absolute;
+    width:  1505px;
+    height: 1083px;
+    background: no-repeat  center top fixed url(../IMG/background.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+
+}

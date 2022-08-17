@@ -1,0 +1,26 @@
+.footer{
+    margin-left: -15px;
+    width: 1525px;
+    height: 200px;
+    background-color: rgb(11, 11, 11);
+    margin-top: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.footer_media{
+    width: 301px;
+    height: 63px;
+    background: rgb(11, 11, 11);
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer__icon:hover{
+    cursor: pointer;
+    height: 60px;
+    width: 60px;
+}
